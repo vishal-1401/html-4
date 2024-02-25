@@ -1,0 +1,101 @@
+*{
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.icon{
+    margin-left: auto;
+}
+i{
+    margin-left: 10px;
+}
+.phone i{
+    margin-right: 10px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+.home a{
+    margin-left: 15px;
+    color: black;
+    font-size: x-large;
+}
+.search{
+    border: transparent;
+}
+::placeholder{
+    color: black;
+    font-size: large;
+}
+.a1{
+    border: solid black 1px;
+}
+h2{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 45px;
+    color: blue;
+    text-decoration: underline;
+}
+.card1{
+    text-align: center;
+    background-color:rgb(226, 219, 219);
+}
+.info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.info img{
+    margin-left: 25px;
+}
+button{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+}
+.button{
+    margin-right: 200px;
+
+}
+#id1{
+    background-color: whitesmoke;
+    margin-right: 20px;
+}
+#id2{
+    background-color: whitesmoke;
+    margin-right: 20px;
+}
+#id{
+    background-color: whitesmoke;
+    margin-right: 20px;
+}
+.foot-panel2{
+    background-color:#222f38 ;
+    color: white;
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin-top: 20px;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
